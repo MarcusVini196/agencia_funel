@@ -6,6 +6,9 @@ IMAGEM DO LANDING PAGE
 ![Projeto-1](https://github.com/user-attachments/assets/0a74d400-0a98-488c-aaa1-3c6574769051)
 
 TECNOLOGIAS UTILIZADAS:
-° HTML
-° CSS
-° JS
+
+HTML
+
+CSS
+
+JS
